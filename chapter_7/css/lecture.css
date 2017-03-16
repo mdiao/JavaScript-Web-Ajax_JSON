@@ -1,0 +1,11 @@
+#cadre {
+    border: 1px solid red;
+}
+
+#bloc{
+    width: 20px;
+    height: 40px;
+    background: red;
+    position: relative; /*It offsets the blocks*/
+    left: 0px; /* It initialize the left position of the block that need to be moved */
+}
